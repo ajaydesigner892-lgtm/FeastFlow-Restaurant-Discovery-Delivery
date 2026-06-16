@@ -1,0 +1,6 @@
+{
+  "name": "BiteRush",
+  "description": "Premium, modern food delivery platform and visual showcase with an interactive mobile application simulator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
